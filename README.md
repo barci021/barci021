@@ -2,7 +2,7 @@
 ### Welcome to my GitHub profile 👋
 <div>
 <a href = "mailto:barci.jj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="50" height="30"></a>
-<a href="https://www.linkedin.com/in/alex-barci/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="50" height="30"></a>   
+<a href="https://www.linkedin.com/in/alex-barci/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="60" height="30"></a>   
 </div>
 
 I am a software developer with almost 7 years of experience in ABAP, SQL and Python  across different industries. I have effectively worked project cross-functional teams, multiple projects and clients in fast-paced environments. I love solving problems, optimizing processes, and creating more efficiency in teams.
@@ -13,9 +13,9 @@ I am a software developer with almost 7 years of experience in ABAP, SQL and Pyt
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40" />       
 </div>
 
 
