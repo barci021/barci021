@@ -1,7 +1,7 @@
 ## Hi, my name is Alex! 
 ### Welcome to my GitHub profile 👋
 <div>
-<a href = "mailto:barci.jj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="50" height="35"></a>
+<a href = "mailto:barci.jj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="50" height="30"></a>
 <a href="https://www.linkedin.com/in/alex-barci/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="40" height="40"></a>   
 </div>
 
