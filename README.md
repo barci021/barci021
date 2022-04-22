@@ -8,7 +8,7 @@
 I am a software developer with almost 7 years of experience in ABAP, SQL and Python  across different industries. I have effectively worked project cross-functional teams, multiple projects and clients in fast-paced environments. I love solving problems, optimizing processes, and creating more efficiency in teams.
 
 
-### Ferramentas e Tecnologias
+### :computer: Tools and Technologies
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
