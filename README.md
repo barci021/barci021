@@ -2,8 +2,7 @@
 ### Welcome to my GitHub profile 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-barci/)](https://www.linkedin.com/in/alex-barci/)
 
-I am a software developer with almost 7 years of experience in ABAP, SQL and Python  across different industries. I have effectively worked project cross-functional teams, multiple projects and clients in fast-paced environments. I love solving problems, optimizing processes, and creating more efficiency in teams.
-
+I am a software developer with almost 7 years of experience in ABAP, SQL and Python  across different industries. I have effectively worked project cross-functional teams, multiple projects and clients in fast-paced environments. I am currently developing in Python with Django framework
 
 ### :computer: Tools and Technologies
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
