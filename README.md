@@ -14,7 +14,7 @@ I am a software developer with almost 7 years of experience in ABAP, SQL and Pyt
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
- ![PyCharm](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ ![PyCharm](https://img.shields.io/badge/-PyCharm-black)
 
 
 
