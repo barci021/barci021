@@ -9,14 +9,12 @@ I am a software developer with almost 7 years of experience in ABAP, SQL and Pyt
 
 
 ### :computer: Tools and Technologies
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="60" height="35" />       
-</div>
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![SQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![PyCharm](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 
 
