@@ -10,6 +10,7 @@ I am a software developer with almost 7 years of experience in ABAP, SQL and Pyt
 
 ### :computer: Tools and Technologies
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![SQL](https://img.shields.io/badge/-T--SQL-black?style=flat-square&logo=SQLServer)
  ![SQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
